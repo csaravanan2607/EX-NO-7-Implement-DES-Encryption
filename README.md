@@ -54,5 +54,5 @@ if __name__ == "__main__":
 ![image](https://github.com/user-attachments/assets/0d0e5384-df12-45e7-9f2e-9f93c16a747d)
 
 ## Result:
-The program is executed successfully
+The program is executed successfully.
 
